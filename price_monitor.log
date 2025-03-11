@@ -1,0 +1,38 @@
+2025-03-12 02:08:48,884 - DataFetcher - INFO - Successfully fetched Alpha Vantage price for AAPL: $220.84
+2025-03-12 02:08:49,965 - DataFetcher - INFO - Successfully fetched Yahoo Finance price for AAPL: $220.72999572753906
+2025-03-12 02:08:49,976 - DataFetcher - INFO - Price comparison for AAPL: AV=$220.84, YF=$220.73, Diff=0.05%
+2025-03-12 02:09:21,529 - DataFetcher - INFO - Successfully fetched Alpha Vantage price for AAPL: $220.84
+2025-03-12 02:09:21,797 - DataFetcher - INFO - Successfully fetched Yahoo Finance price for AAPL: $220.72999572753906
+2025-03-12 02:09:21,798 - DataFetcher - INFO - Price comparison for AAPL: AV=$220.84, YF=$220.73, Diff=0.05%
+2025-03-12 02:09:53,076 - DataFetcher - INFO - Successfully fetched Alpha Vantage price for AAPL: $220.84
+2025-03-12 02:09:53,416 - DataFetcher - INFO - Successfully fetched Yahoo Finance price for AAPL: $220.72999572753906
+2025-03-12 02:09:53,418 - DataFetcher - INFO - Price comparison for AAPL: AV=$220.84, YF=$220.73, Diff=0.05%
+2025-03-12 02:10:25,214 - DataFetcher - INFO - Successfully fetched Alpha Vantage price for AAPL: $220.84
+2025-03-12 02:10:25,548 - DataFetcher - INFO - Successfully fetched Yahoo Finance price for AAPL: $220.72999572753906
+2025-03-12 02:10:25,550 - DataFetcher - INFO - Price comparison for AAPL: AV=$220.84, YF=$220.73, Diff=0.05%
+2025-03-12 02:11:59,664 - DataFetcher - INFO - Successfully fetched Alpha Vantage price for AAPL: $220.84
+2025-03-12 02:12:00,313 - DataFetcher - INFO - Successfully fetched Yahoo Finance price for AAPL: $220.72999572753906
+2025-03-12 02:12:00,314 - DataFetcher - INFO - Price comparison for AAPL: AV=$220.84, YF=$220.73, Diff=0.05%
+2025-03-12 02:27:02,796 - DataFetcher - ERROR - Error fetching Alpha Vantage data for AAPL: 'DataFetcher' object has no attribute '_validate_price'
+2025-03-12 02:27:03,856 - DataFetcher - ERROR - Error fetching Yahoo Finance data for AAPL: 'DataFetcher' object has no attribute '_validate_price'
+2025-03-12 02:27:28,603 - Dashboard - INFO - Testing high-volatility symbol: TSLA
+2025-03-12 02:27:29,783 - DataFetcher - ERROR - Error fetching Alpha Vantage data for TSLA: 'DataFetcher' object has no attribute '_validate_price'
+2025-03-12 02:27:30,334 - DataFetcher - ERROR - Error fetching Yahoo Finance data for TSLA: 'DataFetcher' object has no attribute '_validate_price'
+2025-03-12 02:27:30,336 - Dashboard - INFO - Testing high-volatility symbol: NVDA
+2025-03-12 02:27:31,234 - DataFetcher - ERROR - Error fetching Alpha Vantage data for NVDA: 'DataFetcher' object has no attribute '_validate_price'
+2025-03-12 02:27:31,647 - DataFetcher - ERROR - Error fetching Yahoo Finance data for NVDA: 'DataFetcher' object has no attribute '_validate_price'
+2025-03-12 02:27:31,648 - Dashboard - INFO - Testing high-volatility symbol: COIN
+2025-03-12 02:27:33,056 - DataFetcher - ERROR - Error fetching Alpha Vantage data for COIN: 'DataFetcher' object has no attribute '_validate_price'
+2025-03-12 02:27:33,751 - DataFetcher - ERROR - Error fetching Yahoo Finance data for COIN: 'DataFetcher' object has no attribute '_validate_price'
+2025-03-12 02:27:35,710 - DataFetcher - ERROR - Error fetching Alpha Vantage data for AAPL: 'DataFetcher' object has no attribute '_validate_price'
+2025-03-12 02:27:35,845 - DataFetcher - ERROR - Error fetching Alpha Vantage data for AAPL: 'DataFetcher' object has no attribute '_validate_price'
+2025-03-12 02:27:35,912 - DataFetcher - ERROR - Error fetching Yahoo Finance data for AAPL: 'DataFetcher' object has no attribute '_validate_price'
+2025-03-12 02:27:36,337 - DataFetcher - ERROR - Error fetching Yahoo Finance data for AAPL: 'DataFetcher' object has no attribute '_validate_price'
+2025-03-12 02:29:09,993 - DataFetcher - ERROR - Error fetching Alpha Vantage data for AAPL: 'DataFetcher' object has no attribute '_validate_price'
+2025-03-12 02:29:10,323 - DataFetcher - ERROR - Error fetching Alpha Vantage data for AAPL: 'DataFetcher' object has no attribute '_validate_price'
+2025-03-12 02:29:10,415 - DataFetcher - ERROR - Error fetching Yahoo Finance data for AAPL: 'DataFetcher' object has no attribute '_validate_price'
+2025-03-12 02:29:10,930 - DataFetcher - ERROR - Error fetching Yahoo Finance data for AAPL: 'DataFetcher' object has no attribute '_validate_price'
+2025-03-12 02:30:43,948 - DataFetcher - ERROR - Error fetching Alpha Vantage data for AAPL: 'DataFetcher' object has no attribute '_validate_price'
+2025-03-12 02:30:44,357 - DataFetcher - ERROR - Error fetching Yahoo Finance data for AAPL: 'DataFetcher' object has no attribute '_validate_price'
+2025-03-12 02:30:44,863 - DataFetcher - ERROR - Error fetching Alpha Vantage data for AAPL: 'DataFetcher' object has no attribute '_validate_price'
+2025-03-12 02:30:44,973 - DataFetcher - ERROR - Error fetching Yahoo Finance data for AAPL: 'DataFetcher' object has no attribute '_validate_price'
