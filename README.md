@@ -58,6 +58,12 @@ streamlit run src/dashboard.py
 
 2. Access the dashboard in your browser at `http://localhost:8501`
 
+![Screenshot 2025-03-12 020950](https://github.com/user-attachments/assets/40847e0d-6ff6-47d1-b046-ced7af0d5c54)
+
+![Screenshot 2025-03-12 021008](https://github.com/user-attachments/assets/764580a8-6a76-4f88-b794-a12062cb19ce)
+
+
+
 3. Enter a stock symbol in the sidebar to start monitoring
 
 ## Features in Detail
